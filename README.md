@@ -9,6 +9,6 @@ XOR:
 - 1 ^ 1 <-> 0
 
 <br>
-I used the JavaScript library `Ml5.js` to solve the XOR problem.
+I used the JavaScript library `Ml5.js` to solve the XOR problem.<br>
 
 ![XOR_screenshot](https://github.com/moritzmitterdorfer/XOR-Ml5.js/blob/master/xor.png)
